@@ -1,0 +1,19 @@
+# Dependências para os exercícios de Big Data
+
+# PySpark - Framework de processamento distribuído
+pyspark>=3.4.0
+
+# Iceberg - Tabelas de dados para Big Data
+pyiceberg>=0.5.0
+
+# HDFS - Cliente Python para Hadoop
+hdfs>=2.7.0
+
+# Jupyter - Para executar notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Utilitários
+pandas>=2.0.0
+numpy>=1.24.0
